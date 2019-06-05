@@ -1,4 +1,5 @@
 # Wordpress-Themes
 
 Responsive Wordpress Themes
-* Simple theme with basic sidebar
+* Simple Theme with basic sidebar
+* Advanced Theme for Magazine
